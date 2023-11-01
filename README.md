@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashtare&label=Profile%20views&color=0e75b6&style=flat" alt="avinashtare" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashtare" alt="avinashtare" /></a> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashtare&show_icons=true&theme=radical)](https://github.com/avinashtare/github-readme-stats)![Tawseef's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashtare&show_icons=true&theme=radical)
 
 **avinashtare/avinashtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
